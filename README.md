@@ -1,5 +1,10 @@
+# Student Erickneitor
+## Personal Account
 ### Hi there 👋
+*Software Engineering Student at [EPN](https://epn.edu.ec/)*
 
+![](https://visitor-badge.glitch.me/badge?page_id=erickneitor1416.erickneitor1416)
+<br />
 <!--
 **Erickneitor1416/Erickneitor1416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
