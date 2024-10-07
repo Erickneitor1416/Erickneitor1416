@@ -1,7 +1,7 @@
 # Student Erickneitor
 ## Personal Account
 ### Hi there 👋
-*Software Engineering Student at [EPN](https://epn.edu.ec/)*
+*Software Engineering [EPN](https://epn.edu.ec/)*
 
 ![](https://visitor-badge.glitch.me/badge?page_id=erickneitor1416.erickneitor1416)
 <br />
